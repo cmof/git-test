@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Hello git in IDEA");
         System.out.println("Hello git1 in IDEA");
         System.out.println("Hello git2 in IDEA");
+        System.out.println("hot-fix version update");
     }
 }
