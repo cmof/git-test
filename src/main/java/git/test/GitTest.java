@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hot-fix version update");
         System.out.println("master version test");
         System.out.println("hot-fix version test");
+        System.out.println("push test");
     }
 }
